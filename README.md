@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Naveen
-- 👀 a simple person having tons of dreams
  - contact me @bnknaveen08@gmail.com
 
 <!---
