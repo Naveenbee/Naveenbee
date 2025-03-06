@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Naveen
- - contact me @bnknaveen08@gmail.com
 
 <!---
 Naveenbee/Naveenbee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
